@@ -26,9 +26,3 @@ This project is a web application designed to help users learn and practice Pyth
 - **Authentication**: Flask-Login or similar libraries
 - **Deployment**: Docker, Gunicorn, Nginx (for production)
 
-## Setup Instructions
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/python-learning-platform.git
-   cd python-learning-platform
